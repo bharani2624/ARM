@@ -1,0 +1,16 @@
+release/UnityWindow.o
+release/main.o
+release/sendtounity.o
+release/unitywidget.o
+release/CameraWindow_qml.o
+release/Notification_qml.o
+release/ControlPannel_qml.o
+release/TeachPanel_qml.o
+release/NotificationManager_qml.o
+release/DashboardGaugeStyle_qml.o
+release/GuideWindow_qml.o
+release/main_qml.o
+release/qmlcache_loader.o
+release/moc_UnityWindow.o
+release/moc_sendtounity.o
+release/moc_unitywidget.o
